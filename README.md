@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Nargaye</h1>
 <h3 align="center">A passionate android developer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnargaye&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnargaye" /> </p>
+<img align="right" alt="coding" width="400" src="https://theninehertz.com/wp-content/themes/ninehertz/assets-2022/img/utility-tools/gif/utility-apps.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushnargaye" alt="ayushnargaye" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnargaye&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnargaye" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyushNargaye/AyushNargaye](https://github.com/AyushNargaye/AyushNargaye)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayushnargaye@gmail.com**
 
-- ⚡ Fun fact **I am Cinephile 😅**
+- ⚡ Fun fact **I am Cinephile! Outside of Tech, 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
