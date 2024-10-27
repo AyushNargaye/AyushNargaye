@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnargaye&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnargaye" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AyushNargaye/AyushNargaye](https://github.com/AyushNargaye/AyushNargaye)
+- 👨‍💻 All of my projects are available at [https://github.com/AyushNargaye]
 
 - 💬 Ask me about **Android, Java, Kotlin, Problem Solving**
 
