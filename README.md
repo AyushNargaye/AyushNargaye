@@ -1,4 +1,4 @@
-![logo](https://github.com/AyushNargaye/AyushNargaye/blob/main/1000075291.png)
+![logo]([https://github.com/AyushNargaye/AyushNargaye/blob/main/1000075291.png](https://github.com/AyushNargaye/AyushNargaye/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner%20(1).png))
 
 <h1 align="center">Hi 👋, I'm Ayush Nargaye</h1>
 <h3 align="center">A passionate android developer from India!</h3>
